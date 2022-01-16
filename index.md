@@ -18,7 +18,7 @@ Find me on [GitHub](https://github.com/yhy-2000/) or email me: hyyuan@mail.nanka
 + 2020-2021 University-level first-class scholarship(￥5000)
 
 ### Research
-## 2022
+#### 2022
 + Yujia Zhou, Zhicheng Dou, **Huaying Yuan**, and Zhengyi Ma. Socialformer: Social Network Inspired Long Document Modeling for Document Ranking. In Proceedings of 31th The Web Conference. (WWW 2022) (CCF A)
 
 
