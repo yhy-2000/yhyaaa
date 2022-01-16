@@ -8,14 +8,14 @@ Find me on [GitHub](https://github.com/yhy-2000/) or email me: hyyuan@mail.nanka
 + **2018.09 - present** Bachelor's - Computer Science and Engineering - Nankai University 
 
 ### Contest
-+ 2021 ICPC Asia Shenyang Regional **Silver medal**
-+ 2021 CCPC Harbin **Bronze medal**
-+ National College Students Mathematical Contest in Modeling **National Second Prize**
++ 2021 ICPC Asia Shenyang Regional - **Silver medal**
++ 2021 CCPC Harbin - **Bronze medal**
++ National College Students Mathematical Contest in Modeling - **National Second Prize**
 
 ### Scholarship
-+ 2018-2019 National Scholarship (￥8000)
-+ 2019-2020 University-level first-class scholarship(￥5000)
-+ 2020-2021 University-level first-class scholarship(￥5000)
++ 2018-2019 National Scholarship (0.2%)
++ 2019-2020 University-level first-class scholarship(5%)
++ 2020-2021 University-level first-class scholarship(5%)
 
 ### Research
 #### 2022
