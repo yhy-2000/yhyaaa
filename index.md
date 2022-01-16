@@ -9,7 +9,7 @@ Find me on [GitHub](https://github.com/yhy-2000/) or email me: hyyuan@mail.nanka
 
 ### Contest
 + 2021 ICPC Asia Shenyang Regional **Silver medal**
-+ 2021 CCPC Harbin **bronze prize**
++ 2021 CCPC Harbin **Bronze medal**
 + National College Students Mathematical Contest in Modeling **National Second Prize**
 
 ### Scholarship
