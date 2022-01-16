@@ -1,12 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to yhyaaa'blog
 
-You can use the [editor on GitHub](https://github.com/yhy-2000/huayingyuan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am HuayingYuan, an undergraduate student at Nankai University in China. This September, I will go to Renmin University of China supervised by Prof. Dou for my PhD. I work in the field of Information Retrieval.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Find me on [GitHub](https://github.com/yhy-2000/) or email me: hyyuan@mail.nankai.edu.cn
 
-### Markdown
+### Education
+**2018.09 - present** Bachelor's - Computer Science and Engineering - Nankai University 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contest
+2021 ICPC Asia Shenyang Regional **Silver medal**
+2021 CCPC Harbin **bronze prize**
+National College Students Mathematical Contest in Modeling **National Second Prize**
+
+### Scholarship
+2018-2019 National Scholarship (￥8000)
+2019-2020 University-level first-class scholarship(￥5000)
+2020-2021 University-level first-class scholarship(￥5000)
+
+### Research
+## 2022
++ Yujia Zhou, Zhicheng Dou, **Huaying Yuan**, and Zhengyi Ma. Socialformer: Social Network Inspired Long Document Modeling for Document Ranking. In Proceedings of 31th The Web Conference. (WWW 2022) (CCF A)
+
+
 
 ```markdown
 Syntax highlighted code block
