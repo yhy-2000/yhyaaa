@@ -1,6 +1,6 @@
 ## Welcome to yhyaaa's blog!
 
-<img src="yhyaaa/苑华莹.jpg" width = "100" align=center />
+<img src="苑华莹.jpg" width = "100" align=center />
 
 
 Hi, I am Huaying Yuan, an undergraduate student at Nankai University in China. This September, I will go to Renmin University of China supervised by Prof. Dou for my PhD. I work in the field of Information Retrieval.
