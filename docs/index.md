@@ -8,11 +8,11 @@ Find me on GitHub or email me: hyyuan@mail.nankai.edu.cn
 + **2018.09 - present** Bachelor's - Computer Science and Engineering - Nankai University 
 
 ### Contest
-+ 2021 ICPC Asia Shenyang Regional - **Silver medal**
-+ 2021 CCPC Harbin - **Bronze medal**
-+ 2022 ICPC Asia Kunming Regional - **Bronze medal**
-+ National College Students Mathematical Contest in Modeling - **National Second Prize**
-+ The 16th AStar Programming Contest - **National Top 400**
++ 2021 **ICPC** Asia Shenyang Regional - **Silver medal**
++ 2021 **CCPC** Harbin - **Bronze medal**
++ 2022 **ICPC** Asia Kunming Regional - **Bronze medal**
++ National College Students **Mathematical Contest in Modeling** - **National Second Prize**
++ The 16th **AStar Programming Contest** - **National Top 400**
 
 ### Scholarship
 + 2018-2019 National Scholarship (0.2%)
