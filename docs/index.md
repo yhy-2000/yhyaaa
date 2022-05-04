@@ -1,8 +1,11 @@
 ## Welcome to yhyaaa's blog!
 
+<img src="./苑华莹.jpg" width = "100" align=center />
+
+
 Hi, I am Huaying Yuan, an undergraduate student at Nankai University in China. This September, I will go to Renmin University of China supervised by Prof. Dou for my PhD. I work in the field of Information Retrieval.
 
-Find me on GitHub or email me: hyyuan@mail.nankai.edu.cn
+Find me on [github](https://github.com/yhy-2000) or email me: hyyuan@mail.nankai.edu.cn
 
 ### Education
 + **2018.09 - present** Bachelor's - Computer Science and Engineering - Nankai University 
