@@ -21,6 +21,6 @@ Find me on GitHub or email me: hyyuan@mail.nankai.edu.cn
 
 ### Research
 #### 2022
-+ Yujia Zhou, Zhicheng Dou*, **Huaying Yuan**, and Zhengyi Ma. Socialformer: Social Network Inspired Long Document Modeling for Document Ranking. In Proceedings of 31th The Web Conference. (WWW 2022) (CCF A)
++ Yujia Zhou, Zhicheng Dou\*, **Huaying Yuan**, and Zhengyi Ma. Socialformer: Social Network Inspired Long Document Modeling for Document Ranking. In Proceedings of 31th The Web Conference. (WWW 2022) (CCF A)
 
 
