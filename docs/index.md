@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to yhyaaa's blog!
 
-You can use the [editor on GitHub](https://github.com/yhy-2000/yhyaaa/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am Huaying Yuan, an undergraduate student at Nankai University in China. This September, I will go to Renmin University of China supervised by Prof. Dou for my PhD. I work in the field of Information Retrieval.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Find me on GitHub or email me: hyyuan@mail.nankai.edu.cn
 
-### Markdown
+### Education
++ **2018.09 - present** Bachelor's - Computer Science and Engineering - Nankai University 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contest
++ 2021 ICPC Asia Shenyang Regional - **Silver medal**
++ 2021 CCPC Harbin - **Bronze medal**
++ 2022 ICPC Asia Kunming Regional - **Bronze medal**
++ National College Students Mathematical Contest in Modeling - **National Second Prize**
++ The 16th AStar Programming Contest - **National Top 400**
 
-```markdown
-Syntax highlighted code block
+### Scholarship
++ 2018-2019 National Scholarship (0.2%)
++ 2019-2020 University-level first-class scholarship of Nankai(5%)
++ 2020-2021 University-level first-class scholarship of Nankai(5%)
 
-# Header 1
-## Header 2
-### Header 3
+### Research
+#### 2022
++ Yujia Zhou, Zhicheng Dou, **Huaying Yuan**, and Zhengyi Ma. Socialformer: Social Network Inspired Long Document Modeling for Document Ranking. In Proceedings of 31th The Web Conference. (WWW 2022) (CCF A)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yhy-2000/yhyaaa/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
